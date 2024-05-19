@@ -15,6 +15,6 @@ Welcome to the Nature Arise public repository!
 
 <p align="center">
   <a href="https://billing.kinetichosting.net/aff.php?aff=151">
-    <img src="https://cdn.modrinth.com/data/sBj82FD9/images/c648a735c74de59b092e9c557b8accee031252f4.png">
+    <img src="https://cdn.modrinth.com/data/sBj82FD9/images/2c99e6af838732d8cf0ffd38fed636ce3e12beb2.png">
   </a>
 </p>
