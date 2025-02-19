@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="https://cdn.modrinth.com/data/sBj82FD9/images/e4b99bc6ca1733e8449d4e76f6711f2ae3587f86.png">
 </p>
 
